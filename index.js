@@ -52,4 +52,4 @@ function sumArray(arr) {
 }
 
 
-module.exports = {isAdult, isOddNumber, isEvenNumber, reverse, sumArray}
+module.exports = {isAdult, isOddNumber, isEvenNumber, reverse, sumArray};
